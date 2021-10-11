@@ -1,6 +1,7 @@
-# Plotly_Challenge
+# Module 12 - Plotly Challenge
 
-Make the webpage mobile-responsive
+## Purpose
+Using Plotly, complete Rosa's dashboard so that it visualizes the bacteria data for each volunteer. 
 
 
 
