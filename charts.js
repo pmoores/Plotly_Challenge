@@ -101,8 +101,7 @@ function buildCharts(sample) {
         orientation: "h",
         marker: {
           size: sample_values,
-          color: otu_ids,
-          colorscale: "oxy"
+          color: otu_ids
         }
       }
     ];
@@ -123,8 +122,7 @@ function buildCharts(sample) {
         mode: "markers",
         marker: {
           size: sample_values,
-          color: otu_ids,
-          colorscale: "oxy"
+          color: otu_ids
         }
       }
     ];
