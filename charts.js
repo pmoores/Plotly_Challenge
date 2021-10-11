@@ -101,7 +101,7 @@ function buildCharts(sample) {
         orientation: "h",
         marker: {
           size: sample_values,
-          color: otu_ids,
+          color: size,
           colorscale: "Turbo"
         }
       }
